@@ -1,0 +1,273 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The declaration of the Brittish in the north of Ireland With some queres of Colonel Monke, and the answers of the Brittish to the queres.</title>
+            <author>R. W.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 17 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10247</idno>
+            <idno type="STC">Wing W90A</idno>
+            <idno type="STC">ESTC R223307</idno>
+            <idno type="EEBO-CITATION">61297189</idno>
+            <idno type="OCLC">ocm 61297189</idno>
+            <idno type="VID">180688</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. B10247)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 180688)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2840:29)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The declaration of the Brittish in the north of Ireland With some queres of Colonel Monke, and the answers of the Brittish to the queres.</title>
+                  <author>R. W.</author>
+                  <author>Albemarle, George Monck, Duke of, 1608-1670.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[Edinburgh :</pubPlace>
+                  <date>Printed Anno Dom. 1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Caption title on p. 1: Queries propounded by Col. Monk, to the counsell of war, at Belfast, the 9 of April 1649.</note>
+                  <note>Attributed to R. W. Cf. Wing (2nd ed.).</note>
+                  <note>Place of publication suggested by Wing (2nd ed.).</note>
+                  <note>Reproduction of original in: British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Albemarle, George Monck, --  Duke of, 1608-1670 --  Early works to 1800.</term>
+               <term>Solemn League and Covenant (1643) --  Early works to 1800.</term>
+               <term>Ireland --  Armed forces --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Commonwealth, 1649-1660 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-01</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2012-06</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:180688:1"/>
+            <pb facs="tcp:180688:1" rendition="simple:additions"/>
+            <p>THE DECLARATION OF THE BRITTISH in the North of <hi>Ireland.</hi>
+            </p>
+            <p>With ſome Queries of Colonel MONK, And the Anſwers of the BRITTISH to the QUERIES.</p>
+            <figure>
+               <figDesc>desolate landscape</figDesc>
+            </figure>
+            <p>Printed Anno Dom. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:180688:2"/>
+            <pb facs="tcp:180688:2"/>
+            <div type="queries">
+               <head>Queries propounded by Colonell <hi>Monk,</hi> to the Counſell of War, at <hi>Belfaſt,</hi> the 9. of <hi>April.</hi> 1649.</head>
+               <p>
+                  <seg rend="decorInit">I</seg> Deſire to know what cauſe You have to diſtruſt Me, for my faith<g ref="char:EOLhyphen"/>fulneſse to the good Cauſe You ſtand for?</p>
+               <p n="2">2 Why do You grow upon Me dayly by new Propoſitions, and are not ſatisfied with theſe which the Presbytery at firſt pro<g ref="char:EOLhyphen"/>pounded, but aſsume an vnlimited power to Your ſelves?</p>
+               <p n="3">3. Why do you declare againſt that prevalent partie in England without Order or advice from England, and thereby do in all ap<g ref="char:EOLhyphen"/>pearance, prejudge the good Party oppreſsed there, by declaring your ſelves ſooner, then they think it ſeaſonable: And yet to ſuffer Malignants in your Quar<g ref="char:EOLhyphen"/>ters contrare to Order.</p>
+               <p n="4">4. I deſire to know, (in regard of our dependence upon England) whom it is that We ſhall ſerve for the preſent?</p>
+            </div>
+            <div type="responses">
+               <head>Anſwers given by the Counſell of War, to Colonell MONK his fore-mentioned Queries.</head>
+               <p n="1">To the firſt nothing can be inferred from ouractions implying diſtruſt of you, or your faithfullneſse to the good Cauſe; ſince we are willing and deſireous yet to truſt you.</p>
+               <p n="2">To the 2. It cannot be thought ſtrange, that we have other propoſitions (beſides the Presbyteries) in regard of ourdifferent relation, neither do we con<g ref="char:EOLhyphen"/>cieve that adding to our juſt deſire, upon new Emergence, can be called an aſsum<g ref="char:EOLhyphen"/>ed unlimited Power.</p>
+               <p n="3">
+                  <pb facs="tcp:180688:3"/>3. Albeit, when lawfull Authority is ſuppreſed, an Order be impoſſible to be obtained, yet as we are Chriſtians, our duties to God, and lawfull Authority, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>yes us to declare againſt the Publict Enemies of our God, ſuch as are now the <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>revalent partie in England, who have overturned Authority, from which we night have exſpected Orders. And beſides, the Proteſtation of many Members of both the Houſes of Parliament, the Proteſtation of the Kingdom of Scotland, the Repreſentatio<g ref="char:cmbAbbrStroke">̄</g> of the Miniſtery, the Apologetical Declaration of many thouſand Citizens, in and about the City of LONDON, all againſt the preſent prevalent <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ourſes of the Sectaries, may be unto us, in place of a ſtrong advice, to joyne with them, in declaring againſt them, and diſſalowing of their proceedings <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s alſo for Malignants you underſtand we conceive, only ſuch who were inga<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ed againſt England; none whereof are by us Publickly owned, and if any be <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rivatly ſheltered, when they are diſcovered, we ſhall take ſuch courſe with <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hem, as ſhall be incumbent unto us.</p>
+               <p n="4">To the 4. As we have hitherto in relation to England, ſerved the King &amp; Parlia<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ent thereof, whoſe juſt Power rights and proviledges we are deeply ſworn to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>antain and defend in our ſolemne League and Covenant, ſo we reſolve faith<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ully and conſtantly to ſerve, and adhere unto them, though (now for a time) <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>hey be violently bereft of the exerciſe of their juſt and lawfull power.</p>
+            </div>
+            <div type="propositions">
+               <head>Propoſitions preſented to Colonel MONK, by the Army.</head>
+               <p n="1">FIrſt, that he and all under his Command, ſolemnly ſwear, and ſubſcribe the Solemne League and Covenant.</p>
+               <p n="2">2. That He and They do ſigne the Declaration to be emitted by the Army at their meeting.</p>
+               <p n="3">3. That he ſhall not obey or execut any Order that ſhall be ſent unto him, om the now Prevalent power in England.</p>
+               <p n="4">4. That untill it pleaſe God to eſtabliſh a free Parliament in England, that <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ee will act nothing wherein the Army is publickly concerned, or diſpoſe of any <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>rtified Garriſon, without the advice and conſent of a Counſell of War, firſt <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>lled by him, conſiſting at leaſt of two Officers out of each Regiment, whereof <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e a Field Officer, the other, a Captain choſen by conſent of the Regiment.</p>
+               <p n="5">5. That He be pleaſed to give out of the Magazine unto each Regiment and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>oup, a proportionable quantity of Ammunition, and Armes to be in cuſtody the Commander in Chief of every ſeverall Regiment, for the which Hee is be comptable. Theſe are the moſt moderat deſires, by aſſenting whereunto <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> conceave our Religion and our ſelves can be ſecured: Which being granted, <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> do firmly oblidge our ſelves to obey His Commands.</p>
+            </div>
+            <div type="propositions">
+               <pb facs="tcp:180688:3"/>
+               <head>The Countries Propoſitions to Colonell MONK.</head>
+               <p n="1">FIrſt that nothing be done wherein the Countrie is concerned, ſuch as the equall and juſt diſtribution of the Quarters, the adding to, increaſing, or diminiſhing the preſent ſtanding Forces, or aſſociating with any Party, and other particulars of the like nature, without the conſent of a Com<g ref="char:EOLhyphen"/>mitee, conſiſting of equall number of the Army and Countrey firſt called, the which is to be called upon any juſt Complaint.</p>
+               <p n="2">2. That if We ſhall be invited by any of our Covenanted Brethren in this Kingdome for their Defence in maintaining of the Covenant, againſt the oppo<g ref="char:EOLhyphen"/>ſers thereof, that the General, and this meeting, ſhall receieve them in this aſſo<g ref="char:EOLhyphen"/>ciation, for mutuall defence, in ſo far as may contribute for the ends of the Co<g ref="char:EOLhyphen"/>venant, and for their preſervation in purſuance thereof.</p>
+               <p n="3">3. That in regard of apparent hazards, and the many Enemies of the Cove<g ref="char:EOLhyphen"/>nant, we deſire that the Countrie may be preſently put in a Poſture of Defence, and that their Forces ſhall not be diſpoſed of, without the conſent of the Com<g ref="char:EOLhyphen"/>mitee above mentioned.</p>
+               <p n="4">4. That before parting, an equall number of the Army and Countrie be choſen for the ordering of the buſineſſe as is aforeſaid.</p>
+               <p n="5">5. That as we have deſired a proportionable quantity of Ammunition and Armes, may be given to the Army. We do likewiſe deſire, that a competent number of armes with Ammunition, may be put into the ſeverall Regiments Magazines for their Quarters uſe upon neceſſity.</p>
+               <p n="6">6. Conſidering, that throw the General's declaring againſt the preſent pre<g ref="char:EOLhyphen"/>vailing Party in England, His proper meanes may be obſtructed: Therefore Wee ſhall lay down a courſe, notwithſtanding of the great poverty of the Countrey, for his ſubſiſtance, till means come from England.</p>
+            </div>
+            <div type="declaration">
+               <head>The Counſell of Wars Declaration.</head>
+               <p>AS Wee cannot without great Rejoycing and Thankſgiving think upon the firſt bleſſed vowing of our ſelves in the Land, by a ſolemne League and Covenant unto the Lord our God; So We cannot without grea<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> ſorrow and remorſe (We pray God give Us ſo much as we ought) cal to mind the fearfull back-ſlidings and out-breakings that have been in all man<g ref="char:EOLhyphen"/>ner of Perſons, ſome by not indeavouring to performe what they did ſeem
+<pb facs="tcp:180688:4"/> truly to intend, others by never intending what the genuine ſenſe of the Oath did oblidge them to performe, which do clearly appear by the great Defection of many from the Covenant, their joyning in the late unlawfull Engagement a<g ref="char:EOLhyphen"/>gainſt England, and by the Actions, Diſcourſes, and new Propoſitions of diverſe at this time, contrary to the ſame: For remedy of all which, that the juſt might not paſſe with the unjuſt, we heartily praiſe the Lord for the giving of his ſervants of the Miniſtry, here the boldneſſe to move the renewing, and the reſt of his peo<g ref="char:EOLhyphen"/>ple, the readynes and willingneſſe to renew that ſolemne and ſacred<g ref="char:punc">▪</g> vow: and leaſt after ſuch mercies, We ſhould grow ſecure, and ſuffer our ſelves to fall into our former Errours, eſpecially when ſo great powers have aſſembled themſelves againſt the Lord and his Chriſt. We have thought it neceſſary, not to reſt ſatiſ<g ref="char:EOLhyphen"/>fied with the ſwearing of the Covenant, which many falſe Brethren formerly did, but with <hi>Daniel,</hi> who opened his windows towards the Eaſt, to witneſſe his avouching of the ſervice of his God, ſo by this Declaration do we teſtifie to the world, that we have ſincerely and faithfully without any equivocation ſworn the ſaid Oath according to the true and clear meaning of each Article thereof, as well Civill as Eccleſiaſticall, ſo we ſhall by the ſtrength of God, with our lives <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>nd fortunes, maintaine the ſame againſt the oppoſers and Enemies thereof, as well private underminders, as publique oppoſers; whether <hi>Papiſts, Sectaries,</hi> or <hi>Malignants,</hi> not doubting but their powers may be great; yet the Lord our God, will deliver us from them, or if he doe not, yet we will not ſerve their gods, nor <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y any connivance, or politick lukewarmneſſe, be any wayes partakers of their in<g ref="char:EOLhyphen"/>quities, leaſt we juſtly provoke our God to ſpew us out of his mouth, and ſuffer <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>s to be ſwallowed up in their judgments, &amp; having found of how dangerous, con<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>equence, it is to leave power in the hands of theſe, as are refufers of the Covenant, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap> double minded at it, being ſo far againſt our Vowes therein, made to the Lord <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>f hoſts; and ſuch an apt meanes to breed diviſion amongſt our ſelves, and ad<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ance the deſignes of theſe who wiſh its and our ruine: We doe declare that we will have none in our Army, nor aſſociate our ſelves with any, but ſuch as ſhall <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ke and renew this ſolemne League and Covenant, and particularlie, that wee <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>all not receave into publick charge into our Army, nor aſſociat our ſelves at <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ny time hereafter, with ſuch as have been violent promoters of the late unlawful <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>gadgement againſt <hi>England,</hi> nor with any who have formerly been known to <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ave been <hi>Malignantly</hi> affected, did goe on upon the ſame, untill there ſhall bee a <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ublick way agreed upon by King and Parliament, for receiving of ſuch upon <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>idence of their repentance, with the advice of the Church: Neither ſhall wee <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ceave into charge, any whoſoever have gone upon the former Ingadgement, <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>efore they have firſt, not onely given publick ſignes of repentance to the Church, <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>t alſo, ſhall have ſatisfied the officers of the Army of their good deſerving, and <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ocured a teſtimoniall from the Presbyterie, of their honeſt behaviour: nor ſhall <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>e truſt any other notorious <hi>Malignants;</hi> before they have given conſtant obedi<g ref="char:EOLhyphen"/>
+                  <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ce of their reſenting their former <hi>Malignant</hi> courſes; and (if when upon ſuch <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>nes given, they ſhall be receaved to charge, if they ſhall yet at any time vent <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>eir <hi>Malignancy</hi> by diſcourſe, or otherwiſe, we ſhall inſtantly thereupon remove <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>em from their reſpective charges. And more eſpecially, we ſhall not aſſociat our <gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ves with the Marqueſſe of <hi>Ormond,</hi> not with any of his partie, ſo long as they
+<pb facs="tcp:180688:4"/> ſhall combyne with <hi>Papiſts,</hi> or other forementioned <hi>Malignants,</hi> and ſhal not ſwear and ſubſcribe the ſolemn League and Covenant, as we have done here; and where<g ref="char:EOLhyphen"/>as the Sectarian partie in <hi>England</hi> of late, hes uſurped an illegall power over both King and Parliament, and are reſolving an univerſall Tolleration of Religion, and the ſubverſion of lawfull Government, by Kings, Lords, and Commons, and have taken upon them to proclaime all adherers to the foreſaid juſt Government in the perſon of the preſent King, to be Rebels and Traitors. All which the ſaid <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſurped practiſes they viſibly intend to force upon us in this Kingdome, ſo ſoon as they can tranſport their power thither, to be obeyed and receaved by us, con<g ref="char:EOLhyphen"/>trare to our ſworne ſolemne League and Covenant: and for this cauſe, we doe faithfully obliedge our ſelves unanimouſly with our eſtates and lives, to reſiſt and oppoſe any ſuch irregular Power which ſhall proceed from them, and that we ſhall maintaine the Government of the Church here, together with the juſt power of the King and Parliament in the ſtate, againſt the oppoſers thereof<g ref="char:punc">▪</g> And being confident that theſe our preſent intentions, will not want bitter and falſe aſperſions of all ſorts, and particularly that by this act we intend to, ſhake off our due obedience to the Crowne of <hi>England,</hi> and deſiſt from proſecuting the ſervice againſt the <hi>Iriſh</hi> Rebells, wherein wee were imployed by King and Parliament; we do hereby declare, that we ſhall really demean our ſelves as be<g ref="char:EOLhyphen"/>cometh faithfull and loyall Subjects to the Crown of <hi>England,</hi> and ſhall at all times give due obedience to the King and free Parliament thereof. And untill it ſhall pleaſe God to eſtabliſh theſe according to our ſolemne League and Cove<g ref="char:EOLhyphen"/>nant, we ſhall proſecute, by Gods help and aſſiſtance, ſincerely the Common Ene<g ref="char:EOLhyphen"/>my, and advance by Gods aſſiſtance all the ends thereof. And leaſt by miſunder<g ref="char:EOLhyphen"/>ſtanding, or carnall reaſoning, we might be drawn to any thing contrare to the word of God, and our ſolemne Ingagements, we are reſolved to proceed to no<g ref="char:EOLhyphen"/>thing, whatſomever in reference to Religion, without adviſe of Gods Miniſters and ſervants here given unto us in the ſame, but ſhall be ready according to our power, to proſecute every meane of ſurety to our Religion, which they ſhall propoſe to us according to the word of God, and the Covenant, and that they and our conſciences may bear us witneſſe of the integrity of our hearts, and that we may with the more confidence, expect the bleſſing of God upon our pro<g ref="char:EOLhyphen"/>ceedings, we ſhall take care that ſin may be ſuppreſſed in our Army, all ſcanda<g ref="char:EOLhyphen"/>lous perſons, and diſobedient to Church cenſures, put out of it, and for removing of all jealouſies, our Quarters may have that upon this change of affaires, they may ſuffer prejudice; we do hereby aſſure them, that we ſhall equally regard their reſpective ſtandings, aſwell as our owne. Theſe our reſolutions being pondred by any well affected perſon, we are confident, will ſeem as juſt, as neceſſary: It is e<g ref="char:EOLhyphen"/>vident to the world our conſciences in matters of Religion, loyall to our Sove<g ref="char:EOLhyphen"/>raigne the Lords anoynted, whoſe Fathers unparaleld execution, our ſouls ab<g ref="char:EOLhyphen"/>horres<g ref="char:punc">▪</g> and we tremble to name, and whoſe juſt Succeſſion, He giving ſecurity for maintaining all the Articles and ends of the ſolemne League and Covenant, before He be admitted to the exerciſe of His Royall Power, We are reſolved to maintain with our Lives and Fortunes, to our duties, the Parliaments of the united Kingdomes, our own mutuall Liberties, Lives and Safeties. Withall our ſolemne vowes unto the Lord our God, which are likely to be moſt impiouſly
+<pb facs="tcp:180688:5"/> violated. Neither We hope will any believe We precipitate, when they conſider the preſent power of Sectaries, the ſecret and open enemies of the Kingdomes, the want of affection of many amongſt our ſelves, and the great opportunity they have by every dayes delayes, to ſubvert that which we are moſt obleidged to maintain. Laſtly, the ſubſcribers do faithfully and ſolemnly promiſe, that Wee do truly intend, and ſhall zealouſly proſecut by the aſſiſtance of God, with ſingle<g ref="char:EOLhyphen"/>neſſe of heart, having ſtill Gods glory and Honour before our eyes, all the ſeve<g ref="char:EOLhyphen"/>rall points of this Declaration, and as We earneſtly deſire, and obteſt all good Chriſtians to joyn with us, and now diſcharge their dutie to God and the King, ſo we ſhall not be diverted from maintaining of all theſe who ſhall faithfully joyn herein, with an unintereſted regard by what means ſoever, humbly praying the Almighty Lord, to direct us by his Spirit, and witneſſe by his power, that he is our ſtrong City and Rock in whom we truſt. We the Gentry and others of the Country do aſsent to, and Cordially joyne with the Army in all the points of this Declaration, and ſhall be equally careful of their ingagement, as of our own, and proſecution thereof, ſhall run all the hazards with them.</p>
+            </div>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:180688:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
